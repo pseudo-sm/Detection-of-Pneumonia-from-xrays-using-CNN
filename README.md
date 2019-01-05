@@ -1,5 +1,5 @@
 This is an example of a simple <b>Convolutional Neural Network </b>. 
-It consists of two files preprocessing.py and cnn.py for preparing the data and implementing cnn.
+It consists of 3 files preprocessing.py , cnn.py , test.py for preparing the data , implementing cnn and testing with new data.
 Here we use keras with a tensorflow backend.
 
 
