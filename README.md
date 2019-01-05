@@ -1,8 +1,8 @@
 
 
-This is how your project Directoy must be.
-
-  ------/Workspace
+This is how your project Directoy must be.<br><br>
+<pre>
+  ------/Workspace  
             |---/data-directory
             |        |---/Class A
             |               |---/IMG1
@@ -12,4 +12,5 @@ This is how your project Directoy must be.
             |                |---/IMG2
             |---preprocessing.py
             |---cnn.py
+           </pre>
 
