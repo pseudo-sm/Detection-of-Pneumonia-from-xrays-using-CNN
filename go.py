@@ -4,7 +4,9 @@ import os
 
 import cv2
 
-#Mention the path where your data directory is stored. The directory must be in the following structure
+#Mention the path where your data directory is stored. 
+
+
 
 DATADIR = '/path/to/data_directory'
 CATEGORIES = ['Class A','Class B','Class C']
