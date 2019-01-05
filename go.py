@@ -4,8 +4,10 @@ import os
 
 import cv2
 
-DATADIR = '/home/box/Desktop/MyPy/shit-happening/CNN/workspace/data_dir'
-CATEGORIES = ['NORMAL','PNEUMONIA']
+#Mention the path where your data directory is stored. The directory must be in the following structure
+
+DATADIR = '/path/to/data_directory'
+CATEGORIES = ['Class A','Class B','Class C']
 
 IMG_SIZE = 200
 training_data  =[]
